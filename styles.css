@@ -1,0 +1,16 @@
+body {
+  background-color: lightgrey;
+}
+
+h1  {
+  color: blue;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+li {
+  font-size: 25px;
+}
